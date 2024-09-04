@@ -15,7 +15,7 @@ A simple WhatsApp User bot.
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
 
 3. **Fork Repository:**
-   - [FORK](https://github.com/lyfe00011/levanter/fork) this repository.
+   - [FORK](https://github.com/Hubdarkweb/Cyberpunk/fork) this repository.
 
 4. **Deploy:**
    - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
@@ -26,7 +26,7 @@ A simple WhatsApp User bot.
    - Create an account on [Koyeb](https://app.koyeb.com/auth/signup). [Sign up now](https://app.koyeb.com/auth/signup).
 
 2. **Get Required Information:**
-   - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
+   - Get the [DATABASE_URL](https://github.com/Hubdarkweb/Cyberpunk/wiki/DATABASE_URL). You'll need this while deploying.
    - Get the [SESSION_ID](https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
    - Get the Koyeb API key. [Let's Go](https://app.koyeb.com/account/api).
 
@@ -71,8 +71,8 @@ A simple WhatsApp User bot.
 
 5. **Clone Repository and Install Packages:**
    ```sh
-   git clone https://github.com/lyfe00011/levanter botName
-   cd botName
+   git clone https://github.com/Hubdarkweb/Cyberpunk 
+   cd Cyberpunk 
    yarn install
    ```
 
@@ -90,7 +90,7 @@ A simple WhatsApp User bot.
    MAX_UPLOAD = 200
    REJECT_CALL = false
    SUDO = 989876543210
-   TZ = Asia/Kolkata
+   TZ = Africa/Kenya
    VPS = true
    AUTO_STATUS_VIEW = true
    SEND_READ = true
@@ -127,7 +127,7 @@ A simple WhatsApp User bot.
    - Create an account on [render](https://dashboard.render.com/register). [Sign up now](https://dashboard.render.com/register).
 
 2. **Get Required Information:**
-   - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
+   - Get the [DATABASE_URL](https://github.com/Hubdarkweb/Cyberpunk/wiki/DATABASE_URL). You'll need this while deploying.
    - Get the [SESSION_ID](https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
    - Get the render API key. [Let's Go](https://dashboard.render.com/u/settings#api-keys).
 
@@ -135,5 +135,5 @@ A simple WhatsApp User bot.
    - [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://qr-hazel-alpha.vercel.app/render)
 ### Thanks To
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [🐼🥷🗽🛒🛍️🛫🛸🪬📱🕷️🪲🐞☣️](https://github.com/Quiec) for [WhatsAsena](https://github.com/)
+- [🐼🥷🗽](https://github.com/Hubdarkweb) for [Baileys](https://github.com/Hubdarkweb/Baileys)
